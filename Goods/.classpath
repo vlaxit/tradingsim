@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/ProdConsWithStreams">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/GraphDisplay">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-aop-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-aop-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-aop-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-aspects-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-aspects-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-aspects-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-beans-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-beans-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-beans-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-indexer-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-indexer-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-indexer-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-support-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-support-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-context-support-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-core-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-core-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-core-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-expression-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-expression-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-expression-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-instrument-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-instrument-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-instrument-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jcl-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jcl-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jcl-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jdbc-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jdbc-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jdbc-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jms-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jms-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-jms-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-messaging-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-messaging-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-messaging-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-orm-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-orm-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-orm-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-oxm-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-oxm-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-oxm-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-test-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-test-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-test-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-tx-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-tx-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-tx-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-web-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-web-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-web-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-webflux-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-webflux-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-webflux-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-webmvc-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-webmvc-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-webmvc-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-websocket-5.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-websocket-5.1.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/spring-framework-5.1.9.RELEASE-dist/spring-framework-5.1.9.RELEASE/libs/spring-websocket-5.1.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/jfreechart-1.0.19/lib/jcommon-1.0.23.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/vladimir/Downloads/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" sourcepath="/home/vladimir/Downloads/jfreechart-1.0.19/source">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
